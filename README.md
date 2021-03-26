@@ -5,7 +5,11 @@ It's help to implement twilio sms notification service and api's.
 ## Installation
 
 Use this link [git](https://github.com/harshitadubey/node_twilio.git) to install Node-Twilio.
-or git clone Node-Twilio
+
+or 
+
+git clone https://github.com/harshitadubey/node_twilio.git
+
 ```bash
 yarn install
 ```
