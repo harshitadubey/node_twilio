@@ -4,8 +4,8 @@ It's help to implement twilio sms notification service and api's.
 
 ## Installation
 
-Use the git [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+Use this link [git](https://github.com/harshitadubey/node_twilio.git) to install Node-Twilio.
+or git clone Node-Twilio
 ```bash
 yarn install
 ```
